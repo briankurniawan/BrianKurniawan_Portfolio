@@ -67,3 +67,8 @@ School Data Base: With total of 8 tables/Primary Key, I was able to create multi
 
 Netflix Data Base: Netflix uses multiple data point to manage and track the activity of their user. One of the most important variables is to identify which specific film/genre that the user have like or add to their list. Netflix does not promote reviews or rating for their movies, however, this activity could indicates that some genre is more popular for certain individual, or we could provide suggestion on movies with similar genre, artist, country, or show type.
 
+
+# [Project 7 Data Visualization with Tableau] https://github.com/briankurniawan/Tableau-Data-Visualization-BK/blob/main/README.md
+
+
+https://public.tableau.com/profile/brian.kurniawan#!/vizhome/BrianKurniawanDataVisualizationFinalProject/BrianKurniawanSuperstoreProject
