@@ -50,7 +50,7 @@ With over 4500 data points, based on the customer behaviour data point including
 - revenue
 - Total volume booking
 
-#[Project 5# Data Optimization using Sensitivity Report](https://github.com/briankurniawan/Data_Optimization-SensitivityReport-)
+# [Project 5# Data Optimization using Sensitivity Report](https://github.com/briankurniawan/Data_Optimization-SensitivityReport-)
 On this project, I was assigned to work with a cosmetic and beauty manufacturing company where they have the following goals
 1. They want to optimize the revenue using the limited raw material.
 2. They want to source out the manufacturing capability to other company to reduce cost and fullfil high demand.
