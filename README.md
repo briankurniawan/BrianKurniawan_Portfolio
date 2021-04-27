@@ -58,7 +58,7 @@ On this project, I was assigned to work with a cosmetic and beauty manufacturing
 With 12 variable constraints and real time information,
 we have to analyze how the company could maximize their profit and meet demand at the same time.
 
-# [Project 6 SQL Projects](https://github.com/briankurniawan/SQL-Accounting-Project-BK)
+# [Project 6 SQL Projects with Stored Procedure](https://github.com/briankurniawan/SQL-Accounting-Project-BK)
 1. Finance Accounting Project USING Accounting Data Base of a company, student have to build a P&L and B/S Statement using SQL Code There are multiple ways to approach this problem, but I decided to focus on creating formula for each calendar year
 
 2. School Data base and Netflix Data Base I have the opportunity to learn more about SQL using School Data Base and Netflix Data base
