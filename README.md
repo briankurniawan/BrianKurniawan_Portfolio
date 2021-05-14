@@ -42,6 +42,10 @@ Lasso Regression
 Automatic Relevance Determination(ARD) regression
 KNN
 
+# [Ensamble Modeling - Titanic Datasets](https://github.com/briankurniawan/ML_titanic_Ensamble_modeling_BK)
+Comparing different Machine Learning techniques to identify which variable has the strongest relationship to survival in titanic example case.
+![](images/Titanic%20Ensamble%20Modeling%20Results.png)
+
 # [Project 4 BrianKurniawan-R-Project-Air-France-Study-Case](https://github.com/briankurniawan/BrianKurniawan-R-Project-Air-France-Study-Case-)
 Using the data from Air France marketing team.
 I have to analyze what factors to consider on the upcoming marketing promotion for the company to maximize the profit and target the audience.
