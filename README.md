@@ -27,9 +27,20 @@ Each student shall receive a dataset on countries in one region of the world at 
 - Formulate a strategy for missing values and identifying potential outliers
 - Develop a Jupyter Notebook on their process and findings (with ample use of markdown) 
 
-# [Project 3 Unsupervised-Learning-with-python](https://github.com/briankurniawan/Unsupervised-Learning-with-python)
+# Machine Learning Project
+# [Unsupervised-Learning-with-python](https://github.com/briankurniawan/Unsupervised-Learning-with-python)
 Using unsupervised learning to alanyze based on survey data of personality trait / characteristics.
 Company like Apple and Microsoft have been using consumer buying behaviour in regards to the decision making behind personality questions.
+# [Regression Model](https://github.com/briankurniawan/ML_regression_model) 
+The data sets was house pricing in Ames,Iowa with total of 2930 observations and 20 variables. The model is going to predict what variables is affecting the house price in that region.
+
+OLS regression
+Feature engineering
+Statistic models
+testing/training data
+Lasso Regression
+Automatic Relevance Determination(ARD) regression
+KNN
 
 # [Project 4 BrianKurniawan-R-Project-Air-France-Study-Case](https://github.com/briankurniawan/BrianKurniawan-R-Project-Air-France-Study-Case-)
 Using the data from Air France marketing team.
