@@ -45,6 +45,11 @@ KNN
 # [Ensamble Modeling - Titanic Datasets](https://github.com/briankurniawan/ML_titanic_Ensamble_modeling_BK)
 Comparing different Machine Learning techniques to identify which variable has the strongest relationship to survival in titanic example case.
 ![](images/Titanic%20Ensamble%20Modeling%20Results.png)
+# [Clasification Analysis - Apprentice Chef](https://github.com/briankurniawan/ML_classification_analysis-BK)
+Using a data set from "apprentice Chef" is an online meal kit delivery focused on bay area. With classification method, I'm trying to find out which customer is most likely to enroll to one of the new marketing program related to wine purchases.
+
+# [Regression Model Development - Apprentice Chef](https://github.com/briankurniawan/ML_regression_analysis_BK)
+This project is designed to build a predictive model on a continious response variable(Y-variable). with the following : Feature engineering Model Preparation Variable Selection Model Development
 
 # [Project 4 BrianKurniawan-R-Project-Air-France-Study-Case](https://github.com/briankurniawan/BrianKurniawan-R-Project-Air-France-Study-Case-)
 Using the data from Air France marketing team.
